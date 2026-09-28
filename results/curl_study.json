@@ -1,0 +1,1976 @@
+[
+ {
+  "category": "practice",
+  "url": "https://quotes.toscrape.com/js/",
+  "final_url": "https://quotes.toscrape.com/js/",
+  "captured_headers": 12,
+  "converter_headers": 12,
+  "converter_error": "",
+  "results": {
+   "curl": {
+    "status": 200,
+    "bytes": 5808,
+    "verdict": "ok",
+    "s": 0.79,
+    "title": "Quotes to Scrape",
+    "err": ""
+   },
+   "converter_requests": {
+    "status": 200,
+    "bytes": 5808,
+    "verdict": "ok",
+    "s": 1.34,
+    "title": "Quotes to Scrape",
+    "err": ""
+   },
+   "curl_cffi": {
+    "status": 200,
+    "bytes": 5808,
+    "verdict": "ok",
+    "s": 0.8,
+    "title": "Quotes to Scrape",
+    "err": ""
+   },
+   "bare_requests": {
+    "status": 200,
+    "bytes": 5808,
+    "verdict": "ok",
+    "s": 0.84,
+    "title": "Quotes to Scrape",
+    "err": ""
+   }
+  }
+ },
+ {
+  "category": "practice",
+  "url": "https://quotes.toscrape.com/scroll",
+  "final_url": "https://quotes.toscrape.com/scroll",
+  "captured_headers": 12,
+  "converter_headers": 12,
+  "converter_error": "",
+  "results": {
+   "curl": {
+    "status": 200,
+    "bytes": 2673,
+    "verdict": "ok",
+    "s": 0.71,
+    "title": "Quotes to Scrape",
+    "err": ""
+   },
+   "converter_requests": {
+    "status": 200,
+    "bytes": 2673,
+    "verdict": "ok",
+    "s": 1.36,
+    "title": "Quotes to Scrape",
+    "err": ""
+   },
+   "curl_cffi": {
+    "status": 200,
+    "bytes": 2673,
+    "verdict": "ok",
+    "s": 0.8,
+    "title": "Quotes to Scrape",
+    "err": ""
+   },
+   "bare_requests": {
+    "status": 200,
+    "bytes": 2673,
+    "verdict": "ok",
+    "s": 0.75,
+    "title": "Quotes to Scrape",
+    "err": ""
+   }
+  }
+ },
+ {
+  "category": "practice",
+  "url": "https://quotes.toscrape.com/js-delayed/",
+  "final_url": "https://quotes.toscrape.com/js-delayed/",
+  "captured_headers": 12,
+  "converter_headers": 12,
+  "converter_error": "",
+  "results": {
+   "curl": {
+    "status": 200,
+    "bytes": 6014,
+    "verdict": "ok",
+    "s": 0.79,
+    "title": "Quotes to Scrape",
+    "err": ""
+   },
+   "converter_requests": {
+    "status": 200,
+    "bytes": 6014,
+    "verdict": "ok",
+    "s": 1.33,
+    "title": "Quotes to Scrape",
+    "err": ""
+   },
+   "curl_cffi": {
+    "status": 200,
+    "bytes": 6014,
+    "verdict": "ok",
+    "s": 0.79,
+    "title": "Quotes to Scrape",
+    "err": ""
+   },
+   "bare_requests": {
+    "status": 200,
+    "bytes": 6014,
+    "verdict": "ok",
+    "s": 0.87,
+    "title": "Quotes to Scrape",
+    "err": ""
+   }
+  }
+ },
+ {
+  "category": "practice",
+  "url": "https://www.scrapethissite.com/pages/ajax-javascript/",
+  "final_url": "https://www.scrapethissite.com/pages/ajax-javascript/",
+  "captured_headers": 12,
+  "converter_headers": 12,
+  "converter_error": "",
+  "results": {
+   "curl": {
+    "status": 200,
+    "bytes": 13210,
+    "verdict": "ok",
+    "s": 0.65,
+    "title": "Oscar Winning Films: AJAX and Javascript | Scrape This Site | A public sandbox f",
+    "err": ""
+   },
+   "converter_requests": {
+    "status": 200,
+    "bytes": 13210,
+    "verdict": "ok",
+    "s": 1.22,
+    "title": "Oscar Winning Films: AJAX and Javascript | Scrape This Site | A public sandbox f",
+    "err": ""
+   },
+   "curl_cffi": {
+    "status": 200,
+    "bytes": 13210,
+    "verdict": "ok",
+    "s": 0.68,
+    "title": "Oscar Winning Films: AJAX and Javascript | Scrape This Site | A public sandbox f",
+    "err": ""
+   },
+   "bare_requests": {
+    "status": 200,
+    "bytes": 13210,
+    "verdict": "ok",
+    "s": 0.84,
+    "title": "Oscar Winning Films: AJAX and Javascript | Scrape This Site | A public sandbox f",
+    "err": ""
+   }
+  }
+ },
+ {
+  "category": "practice",
+  "url": "https://www.scrapethissite.com/pages/forms/",
+  "final_url": "https://www.scrapethissite.com/pages/forms/",
+  "captured_headers": 12,
+  "converter_headers": 12,
+  "converter_error": "",
+  "results": {
+   "curl": {
+    "status": 200,
+    "bytes": 50439,
+    "verdict": "ok",
+    "s": 0.79,
+    "title": "Hockey Teams: Forms, Searching and Pagination | Scrape This Site | A public sand",
+    "err": ""
+   },
+   "converter_requests": {
+    "status": 200,
+    "bytes": 50439,
+    "verdict": "ok",
+    "s": 1.27,
+    "title": "Hockey Teams: Forms, Searching and Pagination | Scrape This Site | A public sand",
+    "err": ""
+   },
+   "curl_cffi": {
+    "status": 200,
+    "bytes": 50439,
+    "verdict": "ok",
+    "s": 0.91,
+    "title": "Hockey Teams: Forms, Searching and Pagination | Scrape This Site | A public sand",
+    "err": ""
+   },
+   "bare_requests": {
+    "status": 200,
+    "bytes": 50439,
+    "verdict": "ok",
+    "s": 0.83,
+    "title": "Hockey Teams: Forms, Searching and Pagination | Scrape This Site | A public sand",
+    "err": ""
+   }
+  }
+ },
+ {
+  "category": "practice",
+  "url": "https://books.toscrape.com/",
+  "final_url": "https://books.toscrape.com/",
+  "captured_headers": 12,
+  "converter_headers": 12,
+  "converter_error": "",
+  "results": {
+   "curl": {
+    "status": 200,
+    "bytes": 51294,
+    "verdict": "ok",
+    "s": 1.15,
+    "title": "All products | Books to Scrape - Sandbox",
+    "err": ""
+   },
+   "converter_requests": {
+    "status": 200,
+    "bytes": 51294,
+    "verdict": "ok",
+    "s": 1.53,
+    "title": "All products | Books to Scrape - Sandbox",
+    "err": ""
+   },
+   "curl_cffi": {
+    "status": 200,
+    "bytes": 51294,
+    "verdict": "ok",
+    "s": 0.94,
+    "title": "All products | Books to Scrape - Sandbox",
+    "err": ""
+   },
+   "bare_requests": {
+    "status": 200,
+    "bytes": 51294,
+    "verdict": "ok",
+    "s": 0.93,
+    "title": "All products | Books to Scrape - Sandbox",
+    "err": ""
+   }
+  }
+ },
+ {
+  "category": "practice",
+  "url": "https://quotes.toscrape.com/",
+  "final_url": "https://quotes.toscrape.com/",
+  "captured_headers": 12,
+  "converter_headers": 12,
+  "converter_error": "",
+  "results": {
+   "curl": {
+    "status": 200,
+    "bytes": 11064,
+    "verdict": "ok",
+    "s": 0.98,
+    "title": "Quotes to Scrape",
+    "err": ""
+   },
+   "converter_requests": {
+    "status": 200,
+    "bytes": 11064,
+    "verdict": "ok",
+    "s": 1.35,
+    "title": "Quotes to Scrape",
+    "err": ""
+   },
+   "curl_cffi": {
+    "status": 200,
+    "bytes": 11064,
+    "verdict": "ok",
+    "s": 0.8,
+    "title": "Quotes to Scrape",
+    "err": ""
+   },
+   "bare_requests": {
+    "status": 200,
+    "bytes": 11064,
+    "verdict": "ok",
+    "s": 0.84,
+    "title": "Quotes to Scrape",
+    "err": ""
+   }
+  }
+ },
+ {
+  "category": "docs",
+  "url": "https://react.dev/learn",
+  "final_url": "https://react.dev/learn",
+  "captured_headers": 12,
+  "converter_headers": 12,
+  "converter_error": "",
+  "results": {
+   "curl": {
+    "status": 200,
+    "bytes": 265160,
+    "verdict": "ok",
+    "s": 1.09,
+    "title": "Quick Start \u2013 React",
+    "err": ""
+   },
+   "converter_requests": {
+    "status": 200,
+    "bytes": 265160,
+    "verdict": "ok",
+    "s": 1.63,
+    "title": "Quick Start \u2013 React",
+    "err": ""
+   },
+   "curl_cffi": {
+    "status": 200,
+    "bytes": 265160,
+    "verdict": "ok",
+    "s": 0.96,
+    "title": "Quick Start \u2013 React",
+    "err": ""
+   },
+   "bare_requests": {
+    "status": 200,
+    "bytes": 265160,
+    "verdict": "ok",
+    "s": 0.98,
+    "title": "Quick Start \u2013 React",
+    "err": ""
+   }
+  }
+ },
+ {
+  "category": "docs",
+  "url": "https://vuejs.org/guide/introduction.html",
+  "final_url": "https://vuejs.org/guide/introduction.html",
+  "captured_headers": 12,
+  "converter_headers": 12,
+  "converter_error": "",
+  "results": {
+   "curl": {
+    "status": 200,
+    "bytes": 114346,
+    "verdict": "ok",
+    "s": 0.94,
+    "title": "Introduction | Vue.js",
+    "err": ""
+   },
+   "converter_requests": {
+    "status": 200,
+    "bytes": 114346,
+    "verdict": "ok",
+    "s": 1.53,
+    "title": "Introduction | Vue.js",
+    "err": ""
+   },
+   "curl_cffi": {
+    "status": 200,
+    "bytes": 114346,
+    "verdict": "ok",
+    "s": 0.91,
+    "title": "Introduction | Vue.js",
+    "err": ""
+   },
+   "bare_requests": {
+    "status": 200,
+    "bytes": 114346,
+    "verdict": "ok",
+    "s": 0.9,
+    "title": "Introduction | Vue.js",
+    "err": ""
+   }
+  }
+ },
+ {
+  "category": "docs",
+  "url": "https://angular.dev/overview",
+  "final_url": "https://angular.dev/overview",
+  "captured_headers": 12,
+  "converter_headers": 12,
+  "converter_error": "",
+  "results": {
+   "curl": {
+    "status": 200,
+    "bytes": 293663,
+    "verdict": "ok",
+    "s": 1.61,
+    "title": "What is Angular? \u2022 Angular",
+    "err": ""
+   },
+   "converter_requests": {
+    "status": 200,
+    "bytes": 293663,
+    "verdict": "ok",
+    "s": 1.05,
+    "title": "What is Angular? \u2022 Angular",
+    "err": ""
+   },
+   "curl_cffi": {
+    "status": 200,
+    "bytes": 293663,
+    "verdict": "ok",
+    "s": 0.53,
+    "title": "What is Angular? \u2022 Angular",
+    "err": ""
+   },
+   "bare_requests": {
+    "status": 200,
+    "bytes": 293663,
+    "verdict": "ok",
+    "s": 0.44,
+    "title": "What is Angular? \u2022 Angular",
+    "err": ""
+   }
+  }
+ },
+ {
+  "category": "docs",
+  "url": "https://nextjs.org/docs",
+  "final_url": "https://nextjs.org/docs",
+  "captured_headers": 12,
+  "converter_headers": 12,
+  "converter_error": "",
+  "results": {
+   "curl": {
+    "status": 200,
+    "bytes": 433205,
+    "verdict": "ok",
+    "s": 1.46,
+    "title": "Next.js Docs | Next.js",
+    "err": ""
+   },
+   "converter_requests": {
+    "status": 200,
+    "bytes": 433205,
+    "verdict": "ok",
+    "s": 1.55,
+    "title": "Next.js Docs | Next.js",
+    "err": ""
+   },
+   "curl_cffi": {
+    "status": 200,
+    "bytes": 433205,
+    "verdict": "ok",
+    "s": 1.08,
+    "title": "Next.js Docs | Next.js",
+    "err": ""
+   },
+   "bare_requests": {
+    "status": 200,
+    "bytes": 433205,
+    "verdict": "ok",
+    "s": 1.0,
+    "title": "Next.js Docs | Next.js",
+    "err": ""
+   }
+  }
+ },
+ {
+  "category": "docs",
+  "url": "https://svelte.dev/docs/svelte/overview",
+  "final_url": "https://svelte.dev/docs/svelte/overview",
+  "captured_headers": 12,
+  "converter_headers": 12,
+  "converter_error": "",
+  "results": {
+   "curl": {
+    "status": 200,
+    "bytes": 84630,
+    "verdict": "ok",
+    "s": 1.16,
+    "title": "Overview \u2022 Svelte Docs",
+    "err": ""
+   },
+   "converter_requests": {
+    "status": 200,
+    "bytes": 84630,
+    "verdict": "ok",
+    "s": 1.37,
+    "title": "Overview \u2022 Svelte Docs",
+    "err": ""
+   },
+   "curl_cffi": {
+    "status": 200,
+    "bytes": 84630,
+    "verdict": "ok",
+    "s": 0.83,
+    "title": "Overview \u2022 Svelte Docs",
+    "err": ""
+   },
+   "bare_requests": {
+    "status": 200,
+    "bytes": 84630,
+    "verdict": "ok",
+    "s": 0.64,
+    "title": "Overview \u2022 Svelte Docs",
+    "err": ""
+   }
+  }
+ },
+ {
+  "category": "docs",
+  "url": "https://docs.astro.build/en/getting-started/",
+  "final_url": "https://docs.astro.build/en/getting-started/",
+  "captured_headers": 12,
+  "converter_headers": 12,
+  "converter_error": "",
+  "results": {
+   "curl": {
+    "status": 200,
+    "bytes": 152317,
+    "verdict": "ok",
+    "s": 0.72,
+    "title": "Getting started | Docs",
+    "err": ""
+   },
+   "converter_requests": {
+    "status": 200,
+    "bytes": 152317,
+    "verdict": "ok",
+    "s": 1.02,
+    "title": "Getting started | Docs",
+    "err": ""
+   },
+   "curl_cffi": {
+    "status": 200,
+    "bytes": 152317,
+    "verdict": "ok",
+    "s": 0.59,
+    "title": "Getting started | Docs",
+    "err": ""
+   },
+   "bare_requests": {
+    "status": 200,
+    "bytes": 152317,
+    "verdict": "ok",
+    "s": 0.52,
+    "title": "Getting started | Docs",
+    "err": ""
+   }
+  }
+ },
+ {
+  "category": "docs",
+  "url": "https://tailwindcss.com/docs/installation/using-vite",
+  "final_url": "https://tailwindcss.com/docs/installation/using-vite",
+  "captured_headers": 12,
+  "converter_headers": 12,
+  "converter_error": "",
+  "results": {
+   "curl": {
+    "status": 200,
+    "bytes": 365465,
+    "verdict": "ok",
+    "s": 0.7,
+    "title": "Installing Tailwind CSS with Vite - Tailwind CSS",
+    "err": ""
+   },
+   "converter_requests": {
+    "status": 200,
+    "bytes": 365465,
+    "verdict": "ok",
+    "s": 1.06,
+    "title": "Installing Tailwind CSS with Vite - Tailwind CSS",
+    "err": ""
+   },
+   "curl_cffi": {
+    "status": 200,
+    "bytes": 365465,
+    "verdict": "ok",
+    "s": 0.55,
+    "title": "Installing Tailwind CSS with Vite - Tailwind CSS",
+    "err": ""
+   },
+   "bare_requests": {
+    "status": 200,
+    "bytes": 365465,
+    "verdict": "ok",
+    "s": 0.54,
+    "title": "Installing Tailwind CSS with Vite - Tailwind CSS",
+    "err": ""
+   }
+  }
+ },
+ {
+  "category": "docs",
+  "url": "https://vite.dev/guide/",
+  "final_url": "https://vite.dev/guide/",
+  "captured_headers": 12,
+  "converter_headers": 12,
+  "converter_error": "",
+  "results": {
+   "curl": {
+    "status": 200,
+    "bytes": 90314,
+    "verdict": "ok",
+    "s": 1.42,
+    "title": "Getting Started | Vite",
+    "err": ""
+   },
+   "converter_requests": {
+    "status": 200,
+    "bytes": 90314,
+    "verdict": "ok",
+    "s": 1.41,
+    "title": "Getting Started | Vite",
+    "err": ""
+   },
+   "curl_cffi": {
+    "status": 200,
+    "bytes": 90314,
+    "verdict": "ok",
+    "s": 1.0,
+    "title": "Getting Started | Vite",
+    "err": ""
+   },
+   "bare_requests": {
+    "status": 200,
+    "bytes": 90314,
+    "verdict": "ok",
+    "s": 0.87,
+    "title": "Getting Started | Vite",
+    "err": ""
+   }
+  }
+ },
+ {
+  "category": "docs",
+  "url": "https://docs.python.org/3/library/asyncio.html",
+  "final_url": "https://docs.python.org/3/library/asyncio.html",
+  "captured_headers": 12,
+  "converter_headers": 12,
+  "converter_error": "",
+  "results": {
+   "curl": {
+    "status": 200,
+    "bytes": 25375,
+    "verdict": "ok",
+    "s": 0.58,
+    "title": "asyncio \u2014 Asynchronous I/O &#8212; Python 3.14.7 documentation",
+    "err": ""
+   },
+   "converter_requests": {
+    "status": 200,
+    "bytes": 25375,
+    "verdict": "ok",
+    "s": 1.04,
+    "title": "asyncio \u2014 Asynchronous I/O &#8212; Python 3.14.7 documentation",
+    "err": ""
+   },
+   "curl_cffi": {
+    "status": 200,
+    "bytes": 25375,
+    "verdict": "ok",
+    "s": 0.56,
+    "title": "asyncio \u2014 Asynchronous I/O &#8212; Python 3.14.7 documentation",
+    "err": ""
+   },
+   "bare_requests": {
+    "status": 200,
+    "bytes": 25375,
+    "verdict": "ok",
+    "s": 0.42,
+    "title": "asyncio \u2014 Asynchronous I/O &#8212; Python 3.14.7 documentation",
+    "err": ""
+   }
+  }
+ },
+ {
+  "category": "docs",
+  "url": "https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API",
+  "final_url": "https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API",
+  "captured_headers": 12,
+  "converter_headers": 12,
+  "converter_error": "",
+  "results": {
+   "curl": {
+    "status": 200,
+    "bytes": 153271,
+    "verdict": "ok",
+    "s": 0.51,
+    "title": "Fetch API - Web APIs | MDN",
+    "err": ""
+   },
+   "converter_requests": {
+    "status": 200,
+    "bytes": 153271,
+    "verdict": "ok",
+    "s": 1.03,
+    "title": "Fetch API - Web APIs | MDN",
+    "err": ""
+   },
+   "curl_cffi": {
+    "status": 200,
+    "bytes": 153271,
+    "verdict": "ok",
+    "s": 0.57,
+    "title": "Fetch API - Web APIs | MDN",
+    "err": ""
+   },
+   "bare_requests": {
+    "status": 200,
+    "bytes": 153271,
+    "verdict": "ok",
+    "s": 0.55,
+    "title": "Fetch API - Web APIs | MDN",
+    "err": ""
+   }
+  }
+ },
+ {
+  "category": "catalog",
+  "url": "https://demo.vercel.store/",
+  "final_url": "https://demo.vercel.store/",
+  "captured_headers": 12,
+  "converter_headers": 12,
+  "converter_error": "",
+  "results": {
+   "curl": {
+    "status": 200,
+    "bytes": 197097,
+    "verdict": "ok",
+    "s": 1.16,
+    "title": "Acme Store",
+    "err": ""
+   },
+   "converter_requests": {
+    "status": 200,
+    "bytes": 197097,
+    "verdict": "ok",
+    "s": 1.44,
+    "title": "Acme Store",
+    "err": ""
+   },
+   "curl_cffi": {
+    "status": 200,
+    "bytes": 197097,
+    "verdict": "ok",
+    "s": 0.85,
+    "title": "Acme Store",
+    "err": ""
+   },
+   "bare_requests": {
+    "status": 200,
+    "bytes": 197097,
+    "verdict": "ok",
+    "s": 0.84,
+    "title": "Acme Store",
+    "err": ""
+   }
+  }
+ },
+ {
+  "category": "catalog",
+  "url": "https://www.allbirds.com/collections/mens",
+  "final_url": "https://www.allbirds.com/collections/mens",
+  "captured_headers": 12,
+  "converter_headers": 12,
+  "converter_error": "",
+  "results": {
+   "curl": {
+    "status": 200,
+    "bytes": 1553150,
+    "verdict": "ok",
+    "s": 1.15,
+    "title": "Allbirds: Sustainable Men\u2019s Shoes, Wear-All-Day Comfort",
+    "err": ""
+   },
+   "converter_requests": {
+    "status": 200,
+    "bytes": 1553150,
+    "verdict": "ok",
+    "s": 1.21,
+    "title": "Allbirds: Sustainable Men\u2019s Shoes, Wear-All-Day Comfort",
+    "err": ""
+   },
+   "curl_cffi": {
+    "status": 200,
+    "bytes": 1553150,
+    "verdict": "ok",
+    "s": 0.82,
+    "title": "Allbirds: Sustainable Men\u2019s Shoes, Wear-All-Day Comfort",
+    "err": ""
+   },
+   "bare_requests": {
+    "status": 200,
+    "bytes": 1553088,
+    "verdict": "ok",
+    "s": 0.69,
+    "title": "Allbirds: Sustainable Men\u2019s Shoes, Wear-All-Day Comfort",
+    "err": ""
+   }
+  }
+ },
+ {
+  "category": "catalog",
+  "url": "https://www.gymshark.com/collections/all-products",
+  "final_url": "https://www.gymshark.com/collections/all-products",
+  "captured_headers": 12,
+  "converter_headers": 12,
+  "converter_error": "",
+  "results": {
+   "curl": {
+    "status": 200,
+    "bytes": 1806021,
+    "verdict": "ok",
+    "s": 1.26,
+    "title": "All Products | Gym &amp; Fitness Apparel | Gymshark",
+    "err": ""
+   },
+   "converter_requests": {
+    "status": 200,
+    "bytes": 1806021,
+    "verdict": "ok",
+    "s": 1.72,
+    "title": "All Products | Gym &amp; Fitness Apparel | Gymshark",
+    "err": ""
+   },
+   "curl_cffi": {
+    "status": 200,
+    "bytes": 1806021,
+    "verdict": "ok",
+    "s": 1.29,
+    "title": "All Products | Gym &amp; Fitness Apparel | Gymshark",
+    "err": ""
+   },
+   "bare_requests": {
+    "status": 200,
+    "bytes": 1806021,
+    "verdict": "ok",
+    "s": 1.29,
+    "title": "All Products | Gym &amp; Fitness Apparel | Gymshark",
+    "err": ""
+   }
+  }
+ },
+ {
+  "category": "catalog",
+  "url": "https://store.steampowered.com/search/?term=strategy",
+  "final_url": "https://store.steampowered.com/search/?term=strategy",
+  "captured_headers": 11,
+  "converter_headers": 12,
+  "converter_error": "",
+  "results": {
+   "curl": {
+    "status": 200,
+    "bytes": 698204,
+    "verdict": "ok",
+    "s": 1.02,
+    "title": "Steam Search",
+    "err": ""
+   },
+   "converter_requests": {
+    "status": 200,
+    "bytes": 698204,
+    "verdict": "ok",
+    "s": 1.87,
+    "title": "Steam Search",
+    "err": ""
+   },
+   "curl_cffi": {
+    "status": 200,
+    "bytes": 698204,
+    "verdict": "ok",
+    "s": 1.08,
+    "title": "Steam Search",
+    "err": ""
+   },
+   "bare_requests": {
+    "status": 200,
+    "bytes": 698202,
+    "verdict": "ok",
+    "s": 0.91,
+    "title": "Steam Search",
+    "err": ""
+   }
+  }
+ },
+ {
+  "category": "catalog",
+  "url": "https://www.ikea.com/us/en/cat/sofas-fu003/",
+  "final_url": "https://www.ikea.com/us/en/cat/sofas-fu003/",
+  "captured_headers": 12,
+  "converter_headers": 12,
+  "converter_error": "",
+  "results": {
+   "curl": {
+    "status": 403,
+    "bytes": 4548,
+    "verdict": "blocked",
+    "s": 0.88,
+    "title": "Attention Required! | Cloudflare",
+    "err": ""
+   },
+   "converter_requests": {
+    "status": 403,
+    "bytes": 4548,
+    "verdict": "blocked",
+    "s": 0.98,
+    "title": "Attention Required! | Cloudflare",
+    "err": ""
+   },
+   "curl_cffi": {
+    "status": 403,
+    "bytes": 4548,
+    "verdict": "blocked",
+    "s": 0.58,
+    "title": "Attention Required! | Cloudflare",
+    "err": ""
+   },
+   "bare_requests": {
+    "status": 403,
+    "bytes": 4548,
+    "verdict": "blocked",
+    "s": 0.51,
+    "title": "Attention Required! | Cloudflare",
+    "err": ""
+   }
+  }
+ },
+ {
+  "category": "catalog",
+  "url": "https://www2.hm.com/en_us/men/products/view-all.html",
+  "final_url": "https://www2.hm.com/en_us/men/products/view-all.html",
+  "captured_headers": 12,
+  "converter_headers": 12,
+  "converter_error": "",
+  "results": {
+   "curl": {
+    "status": 403,
+    "bytes": 421,
+    "verdict": "blocked",
+    "s": 0.52,
+    "title": "Access Denied",
+    "err": ""
+   },
+   "converter_requests": {
+    "status": 403,
+    "bytes": 421,
+    "verdict": "blocked",
+    "s": 1.01,
+    "title": "Access Denied",
+    "err": ""
+   },
+   "curl_cffi": {
+    "status": 403,
+    "bytes": 421,
+    "verdict": "blocked",
+    "s": 0.62,
+    "title": "Access Denied",
+    "err": ""
+   },
+   "bare_requests": {
+    "status": 403,
+    "bytes": 421,
+    "verdict": "blocked",
+    "s": 0.53,
+    "title": "Access Denied",
+    "err": ""
+   }
+  }
+ },
+ {
+  "category": "catalog",
+  "url": "https://www.newegg.com/p/pl?d=ssd",
+  "final_url": "https://www.newegg.com/p/pl?d=ssd&__cf_chl_rt_tk=t65xKR8pscxQKY02ftascUR7LyeuEdeQZN93.MAxTP4-1787704923-1.0.1.1-NeMKzjgm8d2_FQydBAHsUT5KwpUCgDUfPSkix5KXfYA",
+  "captured_headers": 5,
+  "converter_headers": 7,
+  "converter_error": "",
+  "results": {
+   "curl": {
+    "status": 403,
+    "bytes": 680825,
+    "verdict": "blocked",
+    "s": 1.13,
+    "title": "CAPTCHA page",
+    "err": ""
+   },
+   "converter_requests": {
+    "status": 403,
+    "bytes": 680868,
+    "verdict": "blocked",
+    "s": 1.28,
+    "title": "CAPTCHA page",
+    "err": ""
+   },
+   "curl_cffi": {
+    "status": 403,
+    "bytes": 681017,
+    "verdict": "blocked",
+    "s": 0.86,
+    "title": "CAPTCHA page",
+    "err": ""
+   },
+   "bare_requests": {
+    "status": 403,
+    "bytes": 680462,
+    "verdict": "blocked",
+    "s": 0.75,
+    "title": "CAPTCHA page",
+    "err": ""
+   }
+  }
+ },
+ {
+  "category": "news",
+  "url": "https://news.ycombinator.com/",
+  "final_url": "https://news.ycombinator.com/",
+  "captured_headers": 12,
+  "converter_headers": 12,
+  "converter_error": "",
+  "results": {
+   "curl": {
+    "status": 200,
+    "bytes": 34373,
+    "verdict": "ok",
+    "s": 1.26,
+    "title": "Hacker News",
+    "err": ""
+   },
+   "converter_requests": {
+    "status": 200,
+    "bytes": 34373,
+    "verdict": "ok",
+    "s": 1.59,
+    "title": "Hacker News",
+    "err": ""
+   },
+   "curl_cffi": {
+    "status": 200,
+    "bytes": 34373,
+    "verdict": "ok",
+    "s": 0.93,
+    "title": "Hacker News",
+    "err": ""
+   },
+   "bare_requests": {
+    "status": 200,
+    "bytes": 34373,
+    "verdict": "ok",
+    "s": 0.96,
+    "title": "Hacker News",
+    "err": ""
+   }
+  }
+ },
+ {
+  "category": "news",
+  "url": "https://www.bbc.com/news",
+  "final_url": "https://www.bbc.com/news",
+  "captured_headers": 12,
+  "converter_headers": 12,
+  "converter_error": "",
+  "results": {
+   "curl": {
+    "status": 200,
+    "bytes": 393334,
+    "verdict": "ok",
+    "s": 1.47,
+    "title": "BBC News - Breaking news, video and the latest top stories from the U.S. and aro",
+    "err": ""
+   },
+   "converter_requests": {
+    "status": 200,
+    "bytes": 393334,
+    "verdict": "ok",
+    "s": 1.1,
+    "title": "BBC News - Breaking news, video and the latest top stories from the U.S. and aro",
+    "err": ""
+   },
+   "curl_cffi": {
+    "status": 200,
+    "bytes": 393334,
+    "verdict": "ok",
+    "s": 0.7,
+    "title": "BBC News - Breaking news, video and the latest top stories from the U.S. and aro",
+    "err": ""
+   },
+   "bare_requests": {
+    "status": 200,
+    "bytes": 393334,
+    "verdict": "ok",
+    "s": 0.55,
+    "title": "BBC News - Breaking news, video and the latest top stories from the U.S. and aro",
+    "err": ""
+   }
+  }
+ },
+ {
+  "category": "news",
+  "url": "https://www.theverge.com/",
+  "final_url": "https://www.theverge.com/",
+  "captured_headers": 12,
+  "converter_headers": 12,
+  "converter_error": "",
+  "results": {
+   "curl": {
+    "status": 200,
+    "bytes": 903644,
+    "verdict": "ok",
+    "s": 1.0,
+    "title": "The Verge",
+    "err": ""
+   },
+   "converter_requests": {
+    "status": 200,
+    "bytes": 903646,
+    "verdict": "ok",
+    "s": 1.09,
+    "title": "The Verge",
+    "err": ""
+   },
+   "curl_cffi": {
+    "status": 200,
+    "bytes": 903646,
+    "verdict": "ok",
+    "s": 0.7,
+    "title": "The Verge",
+    "err": ""
+   },
+   "bare_requests": {
+    "status": 403,
+    "bytes": 11,
+    "verdict": "blocked",
+    "s": 0.6,
+    "title": "",
+    "err": ""
+   }
+  }
+ },
+ {
+  "category": "news",
+  "url": "https://techcrunch.com/",
+  "final_url": "https://techcrunch.com/",
+  "captured_headers": 12,
+  "converter_headers": 12,
+  "converter_error": "",
+  "results": {
+   "curl": {
+    "status": 200,
+    "bytes": 452520,
+    "verdict": "ok",
+    "s": 0.88,
+    "title": "TechCrunch | Startup and Technology News",
+    "err": ""
+   },
+   "converter_requests": {
+    "status": 200,
+    "bytes": 452520,
+    "verdict": "ok",
+    "s": 1.18,
+    "title": "TechCrunch | Startup and Technology News",
+    "err": ""
+   },
+   "curl_cffi": {
+    "status": 200,
+    "bytes": 452520,
+    "verdict": "ok",
+    "s": 0.84,
+    "title": "TechCrunch | Startup and Technology News",
+    "err": ""
+   },
+   "bare_requests": {
+    "status": 200,
+    "bytes": 452520,
+    "verdict": "ok",
+    "s": 0.67,
+    "title": "TechCrunch | Startup and Technology News",
+    "err": ""
+   }
+  }
+ },
+ {
+  "category": "news",
+  "url": "https://www.theguardian.com/international",
+  "final_url": "https://www.theguardian.com/international",
+  "captured_headers": 12,
+  "converter_headers": 12,
+  "converter_error": "",
+  "results": {
+   "curl": {
+    "status": 200,
+    "bytes": 1360559,
+    "verdict": "ok",
+    "s": 0.96,
+    "title": "Latest news, sport and opinion from the Guardian",
+    "err": ""
+   },
+   "converter_requests": {
+    "status": 200,
+    "bytes": 1360559,
+    "verdict": "ok",
+    "s": 1.18,
+    "title": "Latest news, sport and opinion from the Guardian",
+    "err": ""
+   },
+   "curl_cffi": {
+    "status": 200,
+    "bytes": 1360559,
+    "verdict": "ok",
+    "s": 0.96,
+    "title": "Latest news, sport and opinion from the Guardian",
+    "err": ""
+   },
+   "bare_requests": {
+    "status": 200,
+    "bytes": 1360559,
+    "verdict": "ok",
+    "s": 0.73,
+    "title": "Latest news, sport and opinion from the Guardian",
+    "err": ""
+   }
+  }
+ },
+ {
+  "category": "news",
+  "url": "https://www.nytimes.com/",
+  "final_url": "https://www.nytimes.com/",
+  "captured_headers": 12,
+  "converter_headers": 12,
+  "converter_error": "",
+  "results": {
+   "curl": {
+    "status": 200,
+    "bytes": 1548881,
+    "verdict": "ok",
+    "s": 1.26,
+    "title": "The New York Times - Breaking News, US News, World News and Videos",
+    "err": ""
+   },
+   "converter_requests": {
+    "status": 200,
+    "bytes": 1541969,
+    "verdict": "ok",
+    "s": 1.44,
+    "title": "The New York Times - Breaking News, US News, World News and Videos",
+    "err": ""
+   },
+   "curl_cffi": {
+    "status": 200,
+    "bytes": 1542001,
+    "verdict": "ok",
+    "s": 1.01,
+    "title": "The New York Times - Breaking News, US News, World News and Videos",
+    "err": ""
+   },
+   "bare_requests": {
+    "status": 200,
+    "bytes": 1541969,
+    "verdict": "ok",
+    "s": 0.98,
+    "title": "The New York Times - Breaking News, US News, World News and Videos",
+    "err": ""
+   }
+  }
+ },
+ {
+  "category": "community",
+  "url": "https://github.com/trending",
+  "final_url": "https://github.com/trending",
+  "captured_headers": 12,
+  "converter_headers": 12,
+  "converter_error": "",
+  "results": {
+   "curl": {
+    "status": 200,
+    "bytes": 632083,
+    "verdict": "ok",
+    "s": 0.71,
+    "title": "Trending  repositories on GitHub today \u00b7 GitHub",
+    "err": ""
+   },
+   "converter_requests": {
+    "status": 200,
+    "bytes": 632083,
+    "verdict": "ok",
+    "s": 1.17,
+    "title": "Trending  repositories on GitHub today \u00b7 GitHub",
+    "err": ""
+   },
+   "curl_cffi": {
+    "status": 200,
+    "bytes": 632082,
+    "verdict": "ok",
+    "s": 0.7,
+    "title": "Trending  repositories on GitHub today \u00b7 GitHub",
+    "err": ""
+   },
+   "bare_requests": {
+    "status": 200,
+    "bytes": 632083,
+    "verdict": "ok",
+    "s": 1.81,
+    "title": "Trending  repositories on GitHub today \u00b7 GitHub",
+    "err": ""
+   }
+  }
+ },
+ {
+  "category": "community",
+  "url": "https://stackoverflow.com/questions",
+  "final_url": "https://stackoverflow.com/questions?__cf_chl_rt_tk=vIan64P8kbjeeFWzzIhPO98KTZPV5E2Xe53pVNUAxo4-1787704991-1.0.1.1-RoI6O6sOe9BLHLRA6jVMl95ip1UmieEFBaYAujgu7lQ",
+  "captured_headers": 5,
+  "converter_headers": 6,
+  "converter_error": "",
+  "results": {
+   "curl": {
+    "status": 403,
+    "bytes": 5819,
+    "verdict": "blocked",
+    "s": 0.74,
+    "title": "Just a moment...",
+    "err": ""
+   },
+   "converter_requests": {
+    "status": 403,
+    "bytes": 5862,
+    "verdict": "blocked",
+    "s": 0.95,
+    "title": "Just a moment...",
+    "err": ""
+   },
+   "curl_cffi": {
+    "status": 403,
+    "bytes": 5252,
+    "verdict": "blocked",
+    "s": 0.6,
+    "title": "Just a moment...",
+    "err": ""
+   },
+   "bare_requests": {
+    "status": 403,
+    "bytes": 5124,
+    "verdict": "blocked",
+    "s": 0.51,
+    "title": "Just a moment...",
+    "err": ""
+   }
+  }
+ },
+ {
+  "category": "community",
+  "url": "https://dev.to/",
+  "final_url": "https://dev.to/",
+  "captured_headers": 12,
+  "converter_headers": 12,
+  "converter_error": "",
+  "results": {
+   "curl": {
+    "status": 200,
+    "bytes": 239582,
+    "verdict": "ok",
+    "s": 1.17,
+    "title": "DEV Community",
+    "err": ""
+   },
+   "converter_requests": {
+    "status": 200,
+    "bytes": 239582,
+    "verdict": "ok",
+    "s": 1.32,
+    "title": "DEV Community",
+    "err": ""
+   },
+   "curl_cffi": {
+    "status": 200,
+    "bytes": 239582,
+    "verdict": "ok",
+    "s": 0.75,
+    "title": "DEV Community",
+    "err": ""
+   },
+   "bare_requests": {
+    "status": 200,
+    "bytes": 239582,
+    "verdict": "ok",
+    "s": 0.74,
+    "title": "DEV Community",
+    "err": ""
+   }
+  }
+ },
+ {
+  "category": "community",
+  "url": "https://www.producthunt.com/",
+  "final_url": "https://www.producthunt.com/?__cf_chl_rt_tk=hMAWTuD.Tq0qn_3x1tW5YCHuIkY08bbK2f8dsAxa7WI-1787705003-1.0.1.1-qym0p7.1ejkbihtzARxnvYO8uvSUGBmvZLUT.F8MXHI",
+  "captured_headers": 5,
+  "converter_headers": 6,
+  "converter_error": "",
+  "results": {
+   "curl": {
+    "status": 403,
+    "bytes": 5794,
+    "verdict": "blocked",
+    "s": 0.76,
+    "title": "Just a moment...",
+    "err": ""
+   },
+   "converter_requests": {
+    "status": 403,
+    "bytes": 5837,
+    "verdict": "blocked",
+    "s": 1.09,
+    "title": "Just a moment...",
+    "err": ""
+   },
+   "curl_cffi": {
+    "status": 403,
+    "bytes": 5986,
+    "verdict": "blocked",
+    "s": 0.63,
+    "title": "Just a moment...",
+    "err": ""
+   },
+   "bare_requests": {
+    "status": 403,
+    "bytes": 5431,
+    "verdict": "blocked",
+    "s": 0.52,
+    "title": "Just a moment...",
+    "err": ""
+   }
+  }
+ },
+ {
+  "category": "community",
+  "url": "https://pypi.org/project/requests/",
+  "final_url": "https://pypi.org/project/requests/",
+  "captured_headers": 12,
+  "converter_headers": 12,
+  "converter_error": "",
+  "results": {
+   "curl": {
+    "status": 200,
+    "bytes": 246270,
+    "verdict": "ok",
+    "s": 0.44,
+    "title": "requests \u00b7 PyPI",
+    "err": ""
+   },
+   "converter_requests": {
+    "status": 200,
+    "bytes": 246270,
+    "verdict": "ok",
+    "s": 0.99,
+    "title": "requests \u00b7 PyPI",
+    "err": ""
+   },
+   "curl_cffi": {
+    "status": 200,
+    "bytes": 246270,
+    "verdict": "ok",
+    "s": 0.92,
+    "title": "requests \u00b7 PyPI",
+    "err": ""
+   },
+   "bare_requests": {
+    "status": 200,
+    "bytes": 246270,
+    "verdict": "ok",
+    "s": 0.54,
+    "title": "requests \u00b7 PyPI",
+    "err": ""
+   }
+  }
+ },
+ {
+  "category": "community",
+  "url": "https://www.npmjs.com/package/express",
+  "final_url": "https://www.npmjs.com/package/express?__cf_chl_rt_tk=FmWdZfwAXGjgi0C9KPFBqP1AWLKsQnlKmHhJ9WyG6cQ-1787705013-1.0.1.1-PjKuiGvQRmDBuWATdIiXEhu5wWTJmJ.4J.gwMyFoa3Q",
+  "captured_headers": 5,
+  "converter_headers": 6,
+  "converter_error": "",
+  "results": {
+   "curl": {
+    "status": 403,
+    "bytes": 5875,
+    "verdict": "blocked",
+    "s": 0.64,
+    "title": "Just a moment...",
+    "err": ""
+   },
+   "converter_requests": {
+    "status": 403,
+    "bytes": 5918,
+    "verdict": "blocked",
+    "s": 0.99,
+    "title": "Just a moment...",
+    "err": ""
+   },
+   "curl_cffi": {
+    "status": 403,
+    "bytes": 6067,
+    "verdict": "blocked",
+    "s": 0.52,
+    "title": "Just a moment...",
+    "err": ""
+   },
+   "bare_requests": {
+    "status": 403,
+    "bytes": 5534,
+    "verdict": "blocked",
+    "s": 0.43,
+    "title": "Just a moment...",
+    "err": ""
+   }
+  }
+ },
+ {
+  "category": "community",
+  "url": "https://crates.io/crates/serde",
+  "final_url": "https://crates.io/crates/serde",
+  "captured_headers": 12,
+  "converter_headers": 12,
+  "converter_error": "",
+  "results": {
+   "curl": {
+    "status": 200,
+    "bytes": 5056,
+    "verdict": "ok",
+    "s": 0.65,
+    "title": "crates.io: Rust Package Registry",
+    "err": ""
+   },
+   "converter_requests": {
+    "status": 200,
+    "bytes": 5056,
+    "verdict": "ok",
+    "s": 1.37,
+    "title": "crates.io: Rust Package Registry",
+    "err": ""
+   },
+   "curl_cffi": {
+    "status": 200,
+    "bytes": 5056,
+    "verdict": "ok",
+    "s": 0.71,
+    "title": "crates.io: Rust Package Registry",
+    "err": ""
+   },
+   "bare_requests": {
+    "status": 403,
+    "bytes": 251,
+    "verdict": "blocked",
+    "s": 0.76,
+    "title": "",
+    "err": ""
+   }
+  }
+ },
+ {
+  "category": "community",
+  "url": "https://hub.docker.com/_/python",
+  "final_url": "https://hub.docker.com/_/python",
+  "captured_headers": 12,
+  "converter_headers": 12,
+  "converter_error": "",
+  "results": {
+   "curl": {
+    "status": 200,
+    "bytes": 637442,
+    "verdict": "ok",
+    "s": 1.39,
+    "title": "python - Official Image | Docker Hub",
+    "err": ""
+   },
+   "converter_requests": {
+    "status": 200,
+    "bytes": 637442,
+    "verdict": "ok",
+    "s": 1.99,
+    "title": "python - Official Image | Docker Hub",
+    "err": ""
+   },
+   "curl_cffi": {
+    "status": 200,
+    "bytes": 637442,
+    "verdict": "ok",
+    "s": 1.4,
+    "title": "python - Official Image | Docker Hub",
+    "err": ""
+   },
+   "bare_requests": {
+    "status": 200,
+    "bytes": 637565,
+    "verdict": "ok",
+    "s": 1.25,
+    "title": "python - Official Image | Docker Hub",
+    "err": ""
+   }
+  }
+ },
+ {
+  "category": "data",
+  "url": "https://coinmarketcap.com/",
+  "final_url": "https://coinmarketcap.com/",
+  "captured_headers": 12,
+  "converter_headers": 12,
+  "converter_error": "",
+  "results": {
+   "curl": {
+    "status": 200,
+    "bytes": 887064,
+    "verdict": "ok",
+    "s": 0.66,
+    "title": "Cryptocurrency Prices, Charts And Market Capitalizations | CoinMarketCap",
+    "err": ""
+   },
+   "converter_requests": {
+    "status": 200,
+    "bytes": 887064,
+    "verdict": "ok",
+    "s": 1.16,
+    "title": "Cryptocurrency Prices, Charts And Market Capitalizations | CoinMarketCap",
+    "err": ""
+   },
+   "curl_cffi": {
+    "status": 200,
+    "bytes": 887064,
+    "verdict": "ok",
+    "s": 0.8,
+    "title": "Cryptocurrency Prices, Charts And Market Capitalizations | CoinMarketCap",
+    "err": ""
+   },
+   "bare_requests": {
+    "status": 200,
+    "bytes": 887064,
+    "verdict": "ok",
+    "s": 0.71,
+    "title": "Cryptocurrency Prices, Charts And Market Capitalizations | CoinMarketCap",
+    "err": ""
+   }
+  }
+ },
+ {
+  "category": "data",
+  "url": "https://www.coingecko.com/",
+  "final_url": "https://www.coingecko.com/",
+  "captured_headers": 5,
+  "converter_headers": 5,
+  "converter_error": "",
+  "results": {
+   "curl": {
+    "status": 403,
+    "bytes": 1451948,
+    "verdict": "blocked",
+    "s": 1.29,
+    "title": "Challenge Verification | CoinGecko",
+    "err": ""
+   },
+   "converter_requests": {
+    "status": 403,
+    "bytes": 1451991,
+    "verdict": "blocked",
+    "s": 1.53,
+    "title": "Challenge Verification | CoinGecko",
+    "err": ""
+   },
+   "curl_cffi": {
+    "status": 403,
+    "bytes": 1452140,
+    "verdict": "blocked",
+    "s": 1.03,
+    "title": "Challenge Verification | CoinGecko",
+    "err": ""
+   },
+   "bare_requests": {
+    "status": 403,
+    "bytes": 1451586,
+    "verdict": "blocked",
+    "s": 0.95,
+    "title": "Challenge Verification | CoinGecko",
+    "err": ""
+   }
+  }
+ },
+ {
+  "category": "data",
+  "url": "https://finance.yahoo.com/quote/AAPL/",
+  "final_url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_a7577e94-f515-42cb-8363-6b1d2f726fb6",
+  "captured_headers": 12,
+  "converter_headers": 13,
+  "converter_error": "",
+  "results": {
+   "curl": {
+    "status": 200,
+    "bytes": 111592,
+    "verdict": "ok",
+    "s": 1.65,
+    "title": "Your privacy choices",
+    "err": ""
+   },
+   "converter_requests": {
+    "status": 200,
+    "bytes": 111592,
+    "verdict": "ok",
+    "s": 1.8,
+    "title": "Your privacy choices",
+    "err": ""
+   },
+   "curl_cffi": {
+    "status": 200,
+    "bytes": 111592,
+    "verdict": "ok",
+    "s": 1.4,
+    "title": "Your privacy choices",
+    "err": ""
+   },
+   "bare_requests": {
+    "status": 200,
+    "bytes": 111592,
+    "verdict": "ok",
+    "s": 1.35,
+    "title": "Your privacy choices",
+    "err": ""
+   }
+  }
+ },
+ {
+  "category": "data",
+  "url": "https://www.tradingview.com/markets/",
+  "final_url": "https://www.tradingview.com/markets/",
+  "captured_headers": 12,
+  "converter_headers": 12,
+  "converter_error": "",
+  "results": {
+   "curl": {
+    "status": 200,
+    "bytes": 1185001,
+    "verdict": "ok",
+    "s": 0.6,
+    "title": "Markets Today \u2014 Quotes, Charts, and Events \u2014 TradingView",
+    "err": ""
+   },
+   "converter_requests": {
+    "status": 200,
+    "bytes": 1185001,
+    "verdict": "ok",
+    "s": 1.19,
+    "title": "Markets Today \u2014 Quotes, Charts, and Events \u2014 TradingView",
+    "err": ""
+   },
+   "curl_cffi": {
+    "status": 200,
+    "bytes": 1185001,
+    "verdict": "ok",
+    "s": 0.69,
+    "title": "Markets Today \u2014 Quotes, Charts, and Events \u2014 TradingView",
+    "err": ""
+   },
+   "bare_requests": {
+    "status": 200,
+    "bytes": 1185001,
+    "verdict": "ok",
+    "s": 1.19,
+    "title": "Markets Today \u2014 Quotes, Charts, and Events \u2014 TradingView",
+    "err": ""
+   }
+  }
+ },
+ {
+  "category": "data",
+  "url": "https://weather.com/weather/today/l/USNY0996:1:US",
+  "final_url": "https://weather.com/us/florida/jay/locality/new-york/today",
+  "captured_headers": 12,
+  "converter_headers": 12,
+  "converter_error": "",
+  "results": {
+   "curl": {
+    "status": 200,
+    "bytes": 429033,
+    "verdict": "ok",
+    "s": 0.72,
+    "title": "Weather Forecast and Conditions for New York, Jay, Florida - The Weather Channel",
+    "err": ""
+   },
+   "converter_requests": {
+    "status": 200,
+    "bytes": 429033,
+    "verdict": "ok",
+    "s": 1.42,
+    "title": "Weather Forecast and Conditions for New York, Jay, Florida - The Weather Channel",
+    "err": ""
+   },
+   "curl_cffi": {
+    "status": 200,
+    "bytes": 429033,
+    "verdict": "ok",
+    "s": 0.9,
+    "title": "Weather Forecast and Conditions for New York, Jay, Florida - The Weather Channel",
+    "err": ""
+   },
+   "bare_requests": {
+    "status": 200,
+    "bytes": 429033,
+    "verdict": "ok",
+    "s": 0.76,
+    "title": "Weather Forecast and Conditions for New York, Jay, Florida - The Weather Channel",
+    "err": ""
+   }
+  }
+ },
+ {
+  "category": "listings",
+  "url": "https://www.indeed.com/jobs?q=python",
+  "final_url": "https://www.indeed.com/jobs?q=python",
+  "captured_headers": 12,
+  "converter_headers": 13,
+  "converter_error": "",
+  "results": {
+   "curl": {
+    "status": 403,
+    "bytes": 25742,
+    "verdict": "blocked",
+    "s": 0.69,
+    "title": "Blocked - Indeed.com",
+    "err": ""
+   },
+   "converter_requests": {
+    "status": 403,
+    "bytes": 25742,
+    "verdict": "blocked",
+    "s": 0.98,
+    "title": "Blocked - Indeed.com",
+    "err": ""
+   },
+   "curl_cffi": {
+    "status": 403,
+    "bytes": 25742,
+    "verdict": "blocked",
+    "s": 0.55,
+    "title": "Blocked - Indeed.com",
+    "err": ""
+   },
+   "bare_requests": {
+    "status": 403,
+    "bytes": 25742,
+    "verdict": "blocked",
+    "s": 0.5,
+    "title": "Blocked - Indeed.com",
+    "err": ""
+   }
+  }
+ },
+ {
+  "category": "listings",
+  "url": "https://www.glassdoor.com/Job/python-jobs-SRCH_KO0,6.htm",
+  "final_url": "https://www.glassdoor.com/Job/python-jobs-SRCH_KO0,6.htm?__cf_chl_rt_tk=t.XAa7dOvwTpDLjT86fIYOjkha9qmlROfQTX7DCXVAQ-1787705090-1.0.1.1-0hkmuOCG5JUlMx1kJLQJA4tH9YQj.cl.sYgJGRNqtBs",
+  "captured_headers": 5,
+  "converter_headers": 6,
+  "converter_error": "",
+  "results": {
+   "curl": {
+    "status": 403,
+    "bytes": 241131,
+    "verdict": "blocked",
+    "s": 0.56,
+    "title": "Security | Glassdoor",
+    "err": ""
+   },
+   "converter_requests": {
+    "status": 403,
+    "bytes": 241174,
+    "verdict": "blocked",
+    "s": 1.22,
+    "title": "Security | Glassdoor",
+    "err": ""
+   },
+   "curl_cffi": {
+    "status": 403,
+    "bytes": 241323,
+    "verdict": "blocked",
+    "s": 0.64,
+    "title": "Security | Glassdoor",
+    "err": ""
+   },
+   "bare_requests": {
+    "status": 403,
+    "bytes": 9,
+    "verdict": "blocked",
+    "s": 0.52,
+    "title": "",
+    "err": ""
+   }
+  }
+ },
+ {
+  "category": "listings",
+  "url": "https://remoteok.com/",
+  "final_url": "https://remoteok.com/",
+  "captured_headers": 12,
+  "converter_headers": 12,
+  "converter_error": "",
+  "results": {
+   "curl": {
+    "status": 200,
+    "bytes": 59252,
+    "verdict": "ok",
+    "s": 0.96,
+    "title": "Remote Jobs in Programming, Design, Sales and more #OpenSalaries",
+    "err": ""
+   },
+   "converter_requests": {
+    "status": 200,
+    "bytes": 59252,
+    "verdict": "ok",
+    "s": 1.19,
+    "title": "Remote Jobs in Programming, Design, Sales and more #OpenSalaries",
+    "err": ""
+   },
+   "curl_cffi": {
+    "status": 200,
+    "bytes": 59281,
+    "verdict": "ok",
+    "s": 0.68,
+    "title": "Remote Jobs in Programming, Design, Sales and more #OpenSalaries",
+    "err": ""
+   },
+   "bare_requests": {
+    "status": 0,
+    "bytes": 0,
+    "verdict": "http 0",
+    "s": 7.43,
+    "title": "",
+    "err": "Exceeded 30 redirects."
+   }
+  }
+ },
+ {
+  "category": "listings",
+  "url": "https://www.zillow.com/homes/for_sale/",
+  "final_url": "https://www.zillow.com/homes/for_sale/",
+  "captured_headers": 12,
+  "converter_headers": 12,
+  "converter_error": "",
+  "results": {
+   "curl": {
+    "status": 403,
+    "bytes": 5816,
+    "verdict": "blocked",
+    "s": 0.47,
+    "title": "Access to this page has been denied",
+    "err": ""
+   },
+   "converter_requests": {
+    "status": 403,
+    "bytes": 5816,
+    "verdict": "blocked",
+    "s": 1.01,
+    "title": "Access to this page has been denied",
+    "err": ""
+   },
+   "curl_cffi": {
+    "status": 403,
+    "bytes": 5816,
+    "verdict": "blocked",
+    "s": 0.6,
+    "title": "Access to this page has been denied",
+    "err": ""
+   },
+   "bare_requests": {
+    "status": 403,
+    "bytes": 5816,
+    "verdict": "blocked",
+    "s": 0.52,
+    "title": "Access to this page has been denied",
+    "err": ""
+   }
+  }
+ }
+]

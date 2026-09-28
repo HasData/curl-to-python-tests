@@ -1,0 +1,20 @@
+sites with results: 47
+| Method | Got the page | Blocked | Other (timeouts, non-200) |
+|---|---:|---:|---:|
+| curl (the copied command) | 37 | 10 | 0 |
+| converter output, requests | 37 | 10 | 0 |
+| curl_cffi, impersonate=chrome | 37 | 10 | 0 |
+| bare requests.get() | 34 | 12 | 1 |
+
+headers captured per command: min 5 median 12 max 12
+commands where the converter dropped headers: 0 | total headers dropped: 0
+
+| Site | curl | converter → requests | curl_cffi | bare requests |
+|---|---|---|---|---|
+| www.theverge.com | ok (200) | ok (200) | ok (200) | blocked (403) |
+| crates.io | ok (200) | ok (200) | ok (200) | blocked (403) |
+| remoteok.com | ok (200) | ok (200) | ok (200) | http 0 (0) |
+
+median seconds: {'curl': 0.88, 'converter_requests': 1.22, 'curl_cffi': 0.8, 'bare_requests': 0.75}
+body size ratio converter/curl (ok on both): [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0]
+saved d:\scripts\ant\tech-writer\blog-audit\posts\curl-in-python\media\curl-roundtrip-verdicts.png
