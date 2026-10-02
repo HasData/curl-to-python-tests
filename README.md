@@ -2,7 +2,7 @@
 
 ![HasData, the company that ran the study](banner.png)
 
-What survives the trip from DevTools "Copy as cURL" to Python. The harness captures a real navigation request per site, then replays it four ways, the copied `curl` command itself, the `requests` code curlconverter produces from it, the same headers through `curl_cffi` with Chrome impersonation, and a bare `requests.get()` as the control. The findings back [our curl in Python guide](https://hasdata.com/blog/curl-in-python).
+What survives the trip from DevTools "Copy as cURL" to Python. The harness captures a real navigation request per site, then replays it four ways, the copied `curl` command itself, the `requests` code curlconverter produces from it, the same headers through `curl_cffi` with Chrome impersonation, and a bare `requests.get()` as the control. The findings back [our curl in Python guide](https://hasdata.com/blog/curl-in-python?utm_source=github&utm_medium=syndication&utm_campaign=curl-in-python&utm_content=curl-to-python-tests-readme).
 
 ## Table of Contents
 
@@ -62,9 +62,9 @@ The harness fetches live sites, so counts drift as sites change their defences.
 
 ## Disclaimer
 
-The study fetches each site's public homepage once per method and records how the site answers. Whether and how such collection is appropriate depends on jurisdiction, the site, and the use, and nothing in this repository is legal advice. [Is Web Scraping Legal?](https://hasdata.com/blog/is-web-scraping-legal) covers how we think about the question.
+The study fetches each site's public homepage once per method and records how the site answers. Whether and how such collection is appropriate depends on jurisdiction, the site, and the use, and nothing in this repository is legal advice. [Is Web Scraping Legal?](https://hasdata.com/blog/is-web-scraping-legal?utm_source=github&utm_medium=syndication&utm_campaign=curl-in-python&utm_content=curl-to-python-tests-readme) covers how we think about the question.
 
 ## More Resources
 
-- [How to Use cURL in Python](https://hasdata.com/blog/curl-in-python), the guide these findings back
-- [User Agents for Web Scraping](https://hasdata.com/blog/user-agents-for-web-scraping), why the header set decides the outcome
+- [How to Use cURL in Python](https://hasdata.com/blog/curl-in-python?utm_source=github&utm_medium=syndication&utm_campaign=curl-in-python&utm_content=curl-to-python-tests-readme), the guide these findings back
+- [User Agents for Web Scraping](https://hasdata.com/blog/user-agents-for-web-scraping?utm_source=github&utm_medium=syndication&utm_campaign=curl-in-python&utm_content=curl-to-python-tests-readme), why the header set decides the outcome
